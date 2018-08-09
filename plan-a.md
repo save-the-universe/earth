@@ -3,9 +3,9 @@
 This is a **cool** plan
 - [ ] Put the team together
   - Wolverine
-  - Superman
-  - Flash
-  - Green Arrow
+  - SpiderMan
+  - AntMan
+  - Gamora
 - [ ] Beat the bad guy
 - [ ] Weapons
   - guns
